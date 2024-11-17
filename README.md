@@ -11,4 +11,4 @@ Key Features:
 - Utilization of BitsAndBytes library for efficient quantization.
 - Detailed Colab notebook for model exploration and experimentation.
 
-This repository serves as a comprehensive guide to experimenting with large language models in the context of mental health applications, while ensuring that they are computationally efficient and optimized for various hardware environments. Feel free to explore, run the provided Colab notebooks, and adapt the model to your own mental health chatbot projects.
+This repository serves as a comprehensive guide to experimenting with large language models in the context of mental health applications, while ensuring that they are computationally efficient and optimized for various hardware environments. Feel free to explore, run the provided Colab notebooks, and adapt the model to your own mental health chatbot projects. The fine tuned model can be accessed here: https://huggingface.co/hezronling/bloomz-560m-mentalhealthchatbot 
